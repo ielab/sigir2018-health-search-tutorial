@@ -1,4 +1,4 @@
-# The Health Search Tutorial
+# The SIGIR 2018 Health Search Tutorial
 
 Welcome to the homepage for The Health Search Tutorial - a full day on all things Information Retrieval for the Health domain.
 
